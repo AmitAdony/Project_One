@@ -3,5 +3,5 @@ function init(){
 }
 init()
 
-console.log("Monke like banana")
-console.log("new changes here")
+console.log("Monke like banana");
+console.log("new changes here");
